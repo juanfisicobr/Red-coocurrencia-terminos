@@ -49,7 +49,7 @@ Siga los pasos que se indican a continuación para ejecutar el análisis con sus
 
 **1. Clone el repositorio:**
 ```bash
-git clone [https://github.com/your-username/analise-rede-coocorrencia-texto.git](https://github.com/your-username/analise-rede-coocorrencia-texto.git)
+git clone [https://github.com/juanfisicobr/Red-coocurrencia-terminos.git](https://github.com/juanfisicobr/Red-coocurrencia-terminos.git)
 cd analise-rede-coocorrencia-texto
 ```
 
