@@ -49,8 +49,8 @@ Siga los pasos que se indican a continuación para ejecutar el análisis con sus
 
 **1. Clone el repositorio:**
 ```bash
-git clone [https://github.com/juanfisicobr/Red-coocurrencia-terminos.git](https://github.com/juanfisicobr/Red-coocurrencia-terminos.git)
-cd analise-rede-coocorrencia-texto
+git clone https://github.com/juanfisicobr/Red-coocurrencia-terminos.git
+cd Red-coocurrencia-terminos
 ```
 
 **2. (Opcional) Cree un entorno virtual:**
@@ -92,4 +92,4 @@ Después de la ejecución, el script guardará una imagen de la red generada en 
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Consulte el archivo `LICENSE` para obtener más detalles.
+Este proyecto se distribuye bajo la licencia MIT.
